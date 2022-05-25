@@ -1,5 +1,4 @@
 - 👋 Hi, I’m  Matthew Lam @MatthewLamBok
-- 👀 I’m interested in Machine Learning including libraries such as stylegan2
 - 🌱 I’m currently learning tensorflow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/matthewlam15/
